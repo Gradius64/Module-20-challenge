@@ -1,0 +1,15 @@
+{
+    "baseUrl": "http://localhost:3000", 
+    "viewportWidth": 1280,
+    "viewportHeight": 720,
+    "reporter": "spec",
+    "video": false,
+    "env": {
+      "apiUrl": "http://localhost:5000/api" 
+    }
+  }
+  
+  
+  
+  
+  
